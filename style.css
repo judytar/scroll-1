@@ -8,23 +8,23 @@ body {
 }
 
 .sekcja1 {
-    background-color: rgb(32, 139, 143);
+    background-color: #ce6a6b;
     height: 70vh;
 }
 
 .sekcja2 {
-    background-color: rgb(10, 34, 10);
+    background-color: #ebaca2;
     height: 500px;
 
 }
 
 .sekcja3 {
-    background-color: rgb(167, 46, 106);
+    background-color: #4a919e;
     height: 1190px;
 }
 
 .sekcja4 {
-    background-color: rgb(102, 43, 28);
+    background-color: #212e53;
     height: 150vh;
 }
 
